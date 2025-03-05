@@ -1,0 +1,5 @@
+Requisitos do Sistema de Gerenciamento de Colheita de Café:
+1. Coleta de dados em campo: talhão, tipo de grão, quantidade, peso, temperatura do grão e ambiente.
+2. Integração dos dados coletados com o processo de secagem.
+3. Controle de temperatura e umidade durante a secagem.
+4. Geração de relatórios de produtividade.
