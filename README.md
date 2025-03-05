@@ -1,8 +1,6 @@
 # ProjetoDemo2025
 GESTÃO DE RISCOS EM PROJETO DE SOFTWARE
 
-# ProjetoDemo2025
-
 Este repositório contém os artefatos do projeto de software desenvolvido para o gerenciamento da colheita de café.
 
 ## Artefatos Incluídos:
